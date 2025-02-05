@@ -58,7 +58,7 @@
 💻 **Portfolio**: [Coming Soon]  
 📧 **Email**: [srimulakala@gmail.com](mailto:srimulakala@gmail.com)  
 📂 **GitHub**: [github.com/srivarsha28](https://github.com/srivarsha28)  
-📢 **LinkedIn**: [linkedin.com/in/srivarsha28](https://linkedin.com/in/srivarsha28)  
+📢 **LinkedIn**: [linkedin.com/in/srivarsha28](https://www.linkedin.com/in/srivarshamulakala28?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BCooWCYFTkmMVwIjLxlFZA%3D%3D)
 
 ---
 
