@@ -4,8 +4,8 @@
 
 ### 👋 Hi, I'm Srivarsha Mulakala!
 
-🚀 **Machine Learning Engineer | AI Researcher | Cloud Enthusiast**  
-🔍 Passionate about **Deep Learning, Computer Vision, NLP, and Distributed Computing**  
+🚀 **Graduate Teaching Assistant | Volunteer Research Assistant | Data and Cloud Enthusiast**  
+🔍 Passionate about **Machine Learning , AI , Deep Learning, Computer Vision, NLP, and Distributed Computing**  
 🌎 Open to collaborations on **ML research, AI applications, and cloud-based AI solutions**  
 
 ---
@@ -22,17 +22,17 @@
 ---
 
 ### 🛠️ Tech Stack  
-**Languages:** Python, Java, C++, JavaScript  
+**Languages:** Python, Java, C++, HTML , CSS, JavaScript.
 **ML Frameworks:** TensorFlow, PyTorch, Hugging Face Transformers, Scikit-learn  
 **Cloud & Platforms:** AWS (S3, EC2), GCP, Metis Server, Google Colab  
 **Databases:** MySQL, Relational Databases  
 **Visualization:** Tableau, Power BI, Excel  
-**Core Skills:** Object Detection, NLP, Information Retrieval, Web Crawling  
+**Core Skills:** Object Detection, NLP, Information Retrieval, Web Crawling, Computer Vision, Generative AI, Data Analytics, Machine Learning, AI.
 
 ---
 
 ### 📌 Featured Projects  
-#### 🚀 **Medical Image Segmentation (U-Net + Medical SAM Adapter)**
+#### 🚀 **Medical Image Segmentation (U-Net)**
 - Achieved **91.5 Dice Score, 85.2 IoU**
 - Optimized **training pipelines on Metis Server**  
 
